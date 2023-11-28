@@ -1,5 +1,5 @@
 btop
-# btop - To monitor the system performance and understand what’s going on.
+# btop
 
 Based on "Awesome Terminal Applications" at https://medium.com/gitconnected/awesome-terminal-applications-e4a06022dffa
 
