@@ -3,6 +3,8 @@ btop
 
 Based on "Awesome Terminal Applications" at https://medium.com/gitconnected/awesome-terminal-applications-e4a06022dffa
 
+Based on "btop" at https://github.com/aristocratos/btop
+
 To monitor the system performance and understand what’s going on, there is a default tool called top
 
 Go to your terminal and run:
@@ -22,6 +24,14 @@ This shows you the basic system status, the number of processes, and so on.
 But there is a better version of this tool: **btop**.
 
 Let’s first install it.
+
+On Mac:
+
+```
+$ brew install btop
+```
+
+On Linux:
 
 ```
 $ brew install btop
