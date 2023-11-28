@@ -17,4 +17,26 @@ the output, which will look like this:
 
 top
 
+This shows you the basic system status, the number of processes, and so on.
 
+But there is a better version of this tool: **btop**.
+
+Let’s first install it.
+
+```
+$ brew install btop
+```
+
+After the command is successful run:
+
+```
+$ btop
+```
+
+And you will see the following output:
+
+![]()
+
+btop
+
+How cool is that?
