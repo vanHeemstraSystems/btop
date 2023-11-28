@@ -35,7 +35,7 @@ $ btop
 
 And you will see the following output:
 
-![]()
+![image](https://github.com/vanHeemstraSystems/btop/assets/1499433/859cfba5-c2f5-480a-9dad-2a35c7edf972)
 
 btop
 
