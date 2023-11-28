@@ -40,3 +40,9 @@ And you will see the following output:
 btop
 
 How cool is that?
+
+But wait a minute. This is not just beautiful. This is functional as well.
+
+You will see the shortcuts are given. You can use your mouse or keyboard to navigate and kill unnecessary processes.
+
+
